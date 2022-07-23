@@ -4,13 +4,14 @@
 # Copyright (c) 2018-2021 Didgeridoohan @ XDA Developers
 # Licence: MIT
 
-PRINTSV=137
-PRINTSTRANSF=520
+PRINTSV=138
+PRINTSTRANSF=521
 
 # Certified fingerprints
-# Current fingerprints count=743
-# Unique devices=499
+# Current fingerprints count=744
+# Unique devices=450
 PRINTSLIST="
+OPPO A3S CPH1803 (8.1.0 & 9 & 10):OPPO:CPH1803=OPPO/CPH1803/CPH1803:8.1.0/OPM1.171019.026/1602316334:user/release-keys__2022-06-24
 Asus ROG Phone 3 ZS661KS (10):Asus:ZS661KS=asus/WW_I003D/ASUS_I003_1:10/QKQ1.200419.002/17.0823.2012.122-0:user/release-keys__2020-12-01
 Asus ROG Phone 5 ZS673KS (10):Asus:ZS673KS=asus/WW_I005D/ASUS_I005_1:11/RKQ1.201022.002/18.0840.2103.26-0:user/release-keys__2021-03-05
 Asus Smartphone for Snapdragon Insiders ASUS_I007D (11):asus:ASUS_I007D=asus/WW_I007D/ASUS_I007_1:11/RKQ1.201112.002/18.1030.2107.138-0:user/release-keys__2021-07-01
